@@ -1,0 +1,88 @@
+{
+    "products":[
+        {
+        "id": 1,
+        "productName": "Pearl Crystal Bag",
+        "productDescription": "Sphere Transparent Clutch with Pearl & Chain Handle",
+        "productPrice": 20,
+        "imagePath": "/ProductImages/Product1.jpeg"
+        },
+        {
+        "id": 2,
+        "productName": "Colorful Bag",
+        "productDescription": "Multi Color Mini Handle Bag",
+        "productPrice": 25,
+        "imagePath": "./ProductImages/Product2.JPG"
+        },
+        {
+        "id": 3,
+        "productName": "Green Pearl Earrings",
+        "productDescription": "Green Wired Drop Crystals Earrings",
+        "productPrice": 10,
+        "imagePath": "./ProductImages/Product3.JPG"
+        },
+        {
+        "id": 4,
+        "productName": "White Pearl Earrings",
+        "productDescription": "White Wired Drop Crystals Earrings",
+        "productPrice": 10,
+        "imagePath": "./ProductImages/Product4.JPG"
+        },
+        {
+        "id": 5,
+        "productName": "Pearl Luxury Bag",
+        "productDescription": "Clear Handle Bag with Pearls",
+        "productPrice": 30,
+        "imagePath": "./ProductImages/Product5.JPG"
+        },
+        {
+        "id": 6,
+        "productName": "Red Lip Bag",
+        "productDescription": "Red Lip Clutch with long and short chain",
+        "productPrice": 28,
+        "imagePath": "./ProductImages/Product6.jpeg"
+        },
+        {
+        "id": 7,
+        "productName": "Gold Lip Bag",
+        "productDescription": "Gold Lip Clutch with long and short chain",
+        "productPrice": 28,
+        "imagePath": "./ProductImages/Product7.jpeg"
+        },
+        {
+        "id": 8,
+        "productName": "Rudolph Earrings",
+        "productDescription": "Gold and Clear Acrylic Pendant with Crystal Bead in 18k",
+        "productPrice": 12,
+        "imagePath": "./ProductImages/Product8.JPEG"
+        },
+        {
+        "id": 9,
+        "productName": "Black&White Earrings",
+        "productDescription": "Pearls and Rectangle Acrylic in 18k Gold Plated",
+        "productPrice": 12,
+        "imagePath": "./ProductImages/Product9.JPEG"
+        },
+        {
+        "id": 10,
+        "productName": "Black Earrings",
+        "productDescription": "Black Crystal Hoop in 18k Gold Plated",
+        "productPrice": 14,
+        "imagePath": "./ProductImages/Product10.jpeg"
+        },
+        {
+        "id": 11,
+        "productName": "Twisted Pearl ",
+        "productDescription": "Freshwater Pearl in Twisted Gold Hook",
+        "productPrice": 18,
+        "imagePath": "./ProductImages/Product11.JPEG"
+        },
+        {
+        "id": 12,
+        "productName": "Bella Necklace",
+        "productDescription": "Gold Plated Drop Chain with Pendant",
+        "productPrice": 40,
+        "imagePath": "./ProductImages/Product12.JPEG"
+        }
+    ]
+}
